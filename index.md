@@ -23,7 +23,7 @@ Let’s chart this explicitly:
 
 ## 🌍 Societal Trajectory (Ethical/Civilizational)
 
-> Top-down (Shared → Enclosed → Collapse)
+> [Top-down](https://abikesa.github.io/sanity/ukb/primo/web/) (Shared → Enclosed → Collapse)
 
 | Layer                            | Function                             | Notes                              |
 | -------------------------------- | ------------------------------------ | ---------------------------------- |
